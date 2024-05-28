@@ -68,3 +68,5 @@ end
 
 # My Custom Gems
 gem 'devise', '~> 4.9', '>= 4.9.4'
+
+gem "pg", "~> 1.5"
